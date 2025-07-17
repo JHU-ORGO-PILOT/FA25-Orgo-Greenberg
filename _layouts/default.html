@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" href="/img/logo.png">
+    <link rel="stylesheet" href="/assets/css/variable.css">
+    <link rel="stylesheet" href="https://bear-resort.github.io/assets/css/style.css">
+    <script type="text/javascript"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
+</head>
+<body>
+  <div class="topnav" style="text-align: center;">
+    <a href="/personal.html" class="logo"> <img src="/img/logo.png" style="vertical-align: middle; height: 25px; width: 25px" alt="logo"></a> &nbsp; PILOT Learning for <i>Differential Equations</i> &nbsp; &nbsp;  
+    <a href="/index.html" id="home">Home</a> | 
+    <a href="/pset.html" id="psets">Problem Sets</a> |
+    <a href="/resources.html" id="resources">Resources</a> |
+    <a href="/contacts.html" id="contacts">Contacts</a>
+  </div>
+  <div id="content" style="text-align: left;">
+    <br><br><br>
+    <div style="text-align: center;">
+        <div class="largertitle">{{ page.title }}</div>
+    </div>
+    <br>
+    {{ content }}
+    <br><br><br>
+  </div>
+  <div class="botnav" style="text-align: center;">
+    If you find any questions, please contact us via <a href="/contacts.html">Contacts</a> tab.
+  </div>
+
+    <script>
+      document.querySelectorAll('a').forEach(link => {
+        if (link.closest('.topnav')) return;
+
+        const href = link.getAttribute('href');
+        if (href && href.toLowerCase().endsWith('.pdf')) {
+          link.setAttribute('target', '_blank');
+        }
+      });
+      const textarea = document.getElementById('inputBox');
+
+      function adjustHeight() {
+          textarea.style.height = 'auto';
+          textarea.style.height = textarea.scrollHeight + 'px';
+      }
+
+      // Event listener
+      textarea.addEventListener('input', adjustHeight);
+
+      adjustHeight();</script>
+<script type="text/javascript"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
+<script> window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      },
+      options: {
+        renderActions: {
+          addMenu: []
+        }
+      },
+      chtml: {
+        scale: 1.0,
+        matchFontHeight: true
+      }
+    };
+</script>
+
+<script>
+  const pageName = "{{ page.title }}";
+  const pageCate = "{{ page.category }}";
+</script>
+
+<script src="/assets/js/active.js"></script>
+
+</body>
+</html>
