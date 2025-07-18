@@ -7,17 +7,20 @@ title: "Problem Sets"
     The weekly problem sets will be updated here.
 </div>
 
-*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them. Please always refresh for the newest version. If you still notice any, please [contact us](/contacts.html).*
+<br>
+
+|⚠️ Important!|
+|:------------|
+|*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any, please [contact us](/FA25/contacts.html).*|
 
 ## Weekly Problem Sets
 
 Here are the problem sets for each week of PILOT learning.
 - The problem sets will be updated before Monday each week, it is consisted of a compact and a printable version, accompanied by a passcode protected solution manual.
   - We might update problem sets and solution manuals due to minor typos, so please always refresh for the latest version.
-  - The compact version will have all questions piled together, just like traditional PILOT sets. The printable version will have each question starting on a new page, which is more optimal if you were to print it out or doing it over a tablet.
   - The solution is passcode protected to encourage attendance to PILOT sessions, ask your PILOT leader while you are attending that session.
 - Additional resources would be tagged or linked in the resources' column.
-  - Also check out the [Resources]({{site.baseurl}}/resources.html#important-documents) for additional notes and practices.
+  - Also check out the [Resources](/FA25/resources.html) for additional notes and practices.
 
 | Week Number | Dates | Problem Set | Additional Resources |
 |:-----------:|:-----:|:-----------:|:---------------------|
@@ -34,4 +37,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment | Exam Date | Review Session Time | Additional Resources |
 |:----------:|:---------:|:-------------------:|:---------------------|
+| Midterm 1 | ??? | ??? |  |
+| Midterm 2 | ??? | ??? |  |
 | Final | ??? | ??? |  |
