@@ -11,7 +11,7 @@ title: "Problem Sets"
 
 |⚠️ Important!|
 |:------------|
-|*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any, please [contact us](/FA25/contacts.html).*|
+|*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any, please [contact us](/FA25-Orgo-Greenberg/contacts.html).*|
 
 ## Weekly Problem Sets
 
@@ -20,7 +20,7 @@ Here are the problem sets for each week of PILOT learning.
   - We might update problem sets and solution manuals due to minor typos, so please always refresh for the latest version.
   - The solution is passcode protected to encourage attendance to PILOT sessions, ask your PILOT leader while you are attending that session.
 - Additional resources would be tagged or linked in the resources' column.
-  - Also check out the [Resources](/FA25/resources.html) for additional notes and practices.
+  - Also check out the [Resources](/FA25-Orgo-Greenberg/resources.html) for additional notes and practices.
 
 | Week Number | Dates | Problem Set | Additional Resources |
 |:-----------:|:-----:|:-----------:|:---------------------|

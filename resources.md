@@ -13,5 +13,5 @@ title: "Resources"
 
 ## Important Documents
 
-- [Filename](/FA25/relative-path-name):
+- [Filename](/FA25-Orgo-Greenberg/relative-path-name):
     - Description.
