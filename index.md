@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <div style="text-align: center; font-size: 110%;">
-  <b>Welcome to PILOT Learning for <i>Differential Equations</i></b><br>
+  <b>Welcome to PILOT Learning for <i>Organic Chemistry 1</i></b><br>
   <b>Fall 2025</b><br>
   <i>This page contains PILOT review sets, useful resources, and information.</i>
 </div>
@@ -32,5 +32,5 @@ title: "Home"
 
 ## Announcements
 
-- **9/1/2025.** Welcome to PILOT learning for Differential Equations.
+- **9/1/2025.** Welcome to PILOT learning for Organic Chemistry 1 Greenberg.
 
