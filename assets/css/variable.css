@@ -1,8 +1,8 @@
 :root {
-    --main-color:  #641616; 
-    --main-color-light: #901414;
-    --secondary-color: #eecaca; 
-    --secondary-light: #fbe8e8;
+    --dark-color:  #641616; 
+    --dark-light: #901414;
+    --light-color: #eecaca; 
+    --light-light: #fbe8e8;
 
     --font-family: "Palatino Linotype", "Palatino", "Book Antiqua", serif;
     --font-code: "Monaco", monospace;
