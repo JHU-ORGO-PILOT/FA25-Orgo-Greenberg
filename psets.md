@@ -39,4 +39,5 @@ For the in-class assessments, we will prepare corresponding review resources.
 |:----------:|:---------:|:-------------------:|:---------------------|
 | Midterm 1 | ??? | ??? |  |
 | Midterm 2 | ??? | ??? |  |
+| Midterm 3 | ??? | ??? |  |
 | Final | ??? | ??? |  |
