@@ -192,3 +192,15 @@ downloadBtn.addEventListener('click', function() {
             console.error("Download failed:", err);
         });
 });
+
+for (let i = 0; i <= 9; i++) {
+  let numBtn = document.getElementById(i);
+  numBtn.addEventListener('click', function() {
+    usrPassword.value = usrPassword.value + i;
+  })
+}
+
+const clearBtn = document.getElementById('clear');
+clearBtn.addEventListener('click', function() {
+  usrPassword.value = "";
+})

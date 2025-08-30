@@ -19,6 +19,11 @@ stitle: "PDF Reader"
         margin: 0 5px;
         font-size: 12px;
     }
+    #keyboard button {
+        padding: 5px 10px;
+        margin: 0 5px;
+        font-size: 12px;
+    }
 </style>
 
 <div style="text-align: center;">
@@ -43,7 +48,12 @@ stitle: "PDF Reader"
         <br>
         <input id="usrPassword" type="password" placeholder="Enter the password...">
         <br><br>
-        <button id="enter" style="font-size: 14px">Enter</button>
+        <div id="keyboard">
+            <button id="1">1</button> <button id="2">2</button> <button id="3">3</button> <button id="4">4</button> <button id="5">5</button><br><br>
+            <button id="6">6</button> <button id="7">7</button> <button id="8">8</button> <button id="9">9</button> <button id="0">0</button><br><br>
+            <button id="clear" style="font-size: 14px">Clear</button>
+            <button id="enter" style="font-size: 14px">Enter</button>
+        </div>
     </div>
 </div>
 
