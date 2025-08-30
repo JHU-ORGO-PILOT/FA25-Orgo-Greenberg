@@ -24,7 +24,7 @@ Here are the problem sets for each week of PILOT learning.
 
 | Week Number | Dates | Problem Set | Additional Resources |
 |:-----------:|:-----:|:-----------:|:---------------------|
-| 1 | September 1st - September 5th |  |  |
+| 1 | September 1st - September 5th | [PSet 1](//PS1.pdf) |  |
 | 2 | September 8th - September 13th |  |  |
 
 ## Review Session Information
