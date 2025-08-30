@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Organic Chemistry: {{ page.title }}</title>
+    <title>Organic Chemistry: {{ page.title }}{{ page.stitle }}</title>
     <link rel="shortcut icon" href="/FA25-Orgo-Greenberg/img/logo.png">
     <link rel="stylesheet" href="/FA25-Orgo-Greenberg/assets/css/variable.css">
     <link rel="stylesheet" href="https://bear-resort.github.io/assets/css/style.css">
@@ -17,6 +17,7 @@
 </head>
 <body>
   <script type="module" src="https://bear-resort.github.io/assets/js/cookie.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
   <div class="topnav" style="text-align: center;">
     <span class="logo"> <img src="/FA25-Orgo-Greenberg/img/logo.png" style="vertical-align: middle; height: 25px; width: 25px" alt="logo"></span> &nbsp; PILOT Learning for <i>Organic Chemistry: Greenberg</i> &nbsp; &nbsp;  
     <a href="/FA25-Orgo-Greenberg/index.html" id="home">Home</a> | 
@@ -87,9 +88,14 @@
 </script>
 
 <script src="/FA25-Orgo-Greenberg/assets/js/active.js"></script>
+
+<script src="/FA25/assets/js/pdf-reader.js"></script>
+
 <script type="module" src="https://bear-resort.github.io/assets/js/day-night.js"></script>
 
 <script src="https://jhu-ode-pilot.github.io/FA25/assets/js/redirect.js"></script>
+
+<script type="module" src="https://bear-resort.github.io/assets/js/textarea.js"></script>
 
 <script src="https://bear-resort.github.io/assets/js/dynamic-island.js"></script>
 

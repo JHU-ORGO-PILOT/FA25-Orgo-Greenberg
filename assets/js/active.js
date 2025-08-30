@@ -12,4 +12,6 @@ if (pageName === "Resources" || pageCate === "Resources") {
 if (pageName === "Contacts"  || pageCate === "Contacts") {
     activeLink = document.getElementById("contacts");
 }
-activeLink.classList.add("active");
+if (activeLink) {
+    activeLink.classList.add("active");
+}
