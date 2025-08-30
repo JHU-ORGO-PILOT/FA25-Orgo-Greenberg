@@ -1,8 +1,11 @@
+// Set this to false if you want to disable PDF reader.
+const enablePDF = true;
+
 document.addEventListener("DOMContentLoaded", function () {
   const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');  // Select all PDF links
 
-  // Comment out this file to disable pdf redirect.
-  // Attach click event listener to each PDF link
+  if (enablePDF) {
+    // Attach click event listener to each PDF link
   pdfLinks.forEach(link => {
     link.addEventListener('click', function (event) {
       const pdfUrl = link.getAttribute('href'); // Open the PDF renderer in a new tab with the PDF URL as a query parameter
@@ -12,4 +15,5 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
   });
+  }
 });
