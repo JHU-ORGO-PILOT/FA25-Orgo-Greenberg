@@ -1,8 +1,8 @@
-// Set this to false if you want to disable PDF reader.
-const enablePDF = true;
-
 document.addEventListener("DOMContentLoaded", function () {
   const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');  // Select all PDF links
+
+  // Set this to false if you want to disable PDF reader.
+  const enablePDF = true;
 
   if (enablePDF) {
     // Attach click event listener to each PDF link
