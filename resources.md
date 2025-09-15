@@ -16,5 +16,5 @@ title: "Resources"
 
 ## Important Documents
 
-- [Filename](/FA25-Orgo-Greenberg/relative-path-name):
-    - Description.
+- [Textbook and Backtests](https://drive.google.com/drive/u/0/folders/1VmkOS-SfP9-6h-JlF0Y7oWEi_AQff8vT):
+    - Google drive with many backtests, resources, extra practice problems, and solutions. Keep in mind that organic chemistry has many nuances, and Dr. Greenberg has the final say for these matters.
