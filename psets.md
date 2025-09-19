@@ -37,6 +37,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment | Exam Date | Review Session Time | Additional Resources |
 |:----------:|:---------:|:-------------------:|:---------------------|
-| Midterm 1 | Thurs., Sept. 25, 2025 | Sun., Sept. 21, 2025 |  |
+| Midterm 1 | Thurs., Sept. 25, 2025 | Sun., Sept. 21, 2025; 5 p.m. - 7 p.m.; Gilman 50  |  |
 | Midterm 2 | Thurs., Nov. 13, 2025 | ??? |  |
 | Final | Tues., Dec. 16; 9 a.m. - 12 p.m. | ??? |  |
