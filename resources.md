@@ -14,7 +14,7 @@ title: "Resources"
 - [Organic Chemistry Tutor YouTube](https://youtube.com/playlist?list=PL0o_zxa4K1BXP7TUO7656wg0uF1xYnwgm&si=oFmEqBKiwyETkeJB):
     - A popular site on YouTube.
  
-- [Organic Chemistry Initiative](bit.ly/ocijhu):
+- [Organic Chemistry Initiative](https://sites.google.com/view/organiccheminitiative/home?authuser=0):
     - Organic chemistry initiative in the Office of Academic Success at JHU.
 
 ## Important Documents
