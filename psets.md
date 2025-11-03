@@ -33,6 +33,7 @@ Here are the problem sets for each week of PILOT learning.
 | 7 | October 13th - October 17th | [PSet 7](/FA25-Orgo-Greenberg/psets/ProblemSet07_Orgo1Greenberg_FA2025.pdf) | [PSet 7 Soln](/FA25-Orgo-Greenberg/psets/KEY%20PILOT%20ProblemSet07_Orgo1Greenberg_FA2025.pdf) |
 | 8 | October 20th - October 24th | [PSet 8](/FA25-Orgo-Greenberg/psets/ProblemSet08_Orgo1Greenberg_FA2025.pdf) | [PSet 8 Soln](/FA25-Orgo-Greenberg/psets/KEY%20PILOT%20ProblemSet08_Orgo1Greenberg_FA2025.pdf) |
 | 9 | October 27th - October 31th | [PSet 9](/FA25-Orgo-Greenberg/psets/ProblemSet09_Orgo1Greenberg_FA2025.pdf) | [PSet 9 Soln](/FA25-Orgo-Greenberg/psets/KEY%20PILOT%20ProblemSet09_Orgo1Greenberg_FA2025.pdf) |
+| 10 | November 3rd - November 7th | [PSet 10](/FA25-Orgo-Greenberg/psets/ProblemSet10_Orgo1Greenberg_FA2025.pdf) | [PSet 10 Soln](/FA25-Orgo-Greenberg/psets/KEY%20PILOT%20ProblemSet10_Orgo1Greenberg_FA2025.pdf) |
 
 ## Review Session Information
 
